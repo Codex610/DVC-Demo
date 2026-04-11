@@ -16,3 +16,5 @@
 15.Now repeat step 12-14 for V3 of data.
 
 git log --oneline
+git checkout main
+dvc pull
